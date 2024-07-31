@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CalorieTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryVariant">@color/blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+
+    <style name="Theme.CalorieTracker" parent="Base.Theme.CalorieTracker">
+        <item name = "android:activityOpenEnterAnimation">@anim/slide_in_right</item>
+        <item name = "android:activityOpenExitAnimation">@anim/slide_out_left</item>
+    </style>
+</resources>

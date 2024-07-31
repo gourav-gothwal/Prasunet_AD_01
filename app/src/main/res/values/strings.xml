@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calorie Tracker</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="preview_image">Image Preview</string>
+    <string name="select_image">Select Image</string>
+    <string name="calorie_info">Calorie Information will be displayed here.</string>
+</resources>
